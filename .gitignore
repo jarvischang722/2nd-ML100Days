@@ -1,5 +1,6 @@
 .idea
 .DS_Store
 **/.DS_Store
+data
 homework/.ipynb_checkpoints
 homework/**/.ipynb_checkpoints
